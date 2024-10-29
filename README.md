@@ -38,3 +38,8 @@ Tipos de serviços de nuvem
 
 ![image](https://github.com/user-attachments/assets/f37b91c1-170e-4cd3-82be-20017684caee)
 
+Modelo de compartilhamento de responsabilidades
+
+![image](https://github.com/user-attachments/assets/8272cf72-0129-4696-9573-9564ea24ddc6)
+
+
