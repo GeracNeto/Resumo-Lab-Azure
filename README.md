@@ -27,3 +27,14 @@ Além disso, criamos na prática uma conta na **Azure** para explorar esses conc
 - **Escalabilidade e Elasticidade**: A Azure permite o aumento ou a diminuição rápida dos recursos conforme a demanda, suportando o crescimento do negócio de forma econômica e eficiente.
 
 - O **SLA** (Service Level Agreement), ou Acordo de Nível de Serviço, é um contrato que define o nível de qualidade, disponibilidade e responsabilidade que o provedor de serviços deve cumprir para com o cliente. No contexto de computação em nuvem, o SLA estabelece padrões específicos de desempenho, como garantias de tempo de atividade e suporte, com compensações caso os níveis acordados não sejam atingidos.
+
+## Lab-3
+
+Tipos de serviços de nuvem
+
+- **IaaS - Infraestrutura como Serviço**: Crie uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem.
+- **PaaS - Plataforma como Serviço**: Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente.
+- **SaaS - Software como Serviço**: Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: por exemplo, Microsoft Office 365, email e calendários.
+
+![image](https://github.com/user-attachments/assets/f37b91c1-170e-4cd3-82be-20017684caee)
+
